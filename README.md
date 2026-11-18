@@ -2,6 +2,8 @@
 
 A single-file, static landing page for **OVRA**, a fictional athletic knitwear label. The design features a light misty-orchid palette across three sections: a framed hero with a cut-out athlete, a “WORKOUT” photo collage, and a “Fresh Fits” marquee/lookbook card.
 
+<img width="1900" height="891" alt="Screenshot 2026-11-18 184059" src="https://github.com/user-attachments/assets/6d128d55-9720-4f14-900f-604a9f96badc" />
+
 ## Project structure
 
 - `index.html` — Complete page with inline CSS and JavaScript (no frameworks, no build step, no external libraries).
